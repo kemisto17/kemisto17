@@ -1,37 +1,60 @@
+<div align="center">
+
 # Pranav Bhagwat
 
-**B.Tech CSE Student | Python | Java | Software Development | Data & AI**
+### B.Tech CSE Student • Python • Java • Software Development • Data & AI
 
-Building practical projects while improving my programming, DSA, and software development skills.
+Building practical projects, improving problem-solving skills, and learning by creating.
 
-## About
+[LinkedIn](https://www.linkedin.com/in/pranavbhagwat17/) • [GitHub](https://github.com/pranav-jpeg)
 
-* Learning Python and Data Structures & Algorithms
-* Building practical software projects
-* Exploring Data Science and AI
-* Improving Git, GitHub, and clean coding practices
+</div>
+
+---
+
+## About Me
+
+* Currently improving **Python and Data Structures & Algorithms**
+* Building projects to strengthen software development fundamentals
+* Exploring **Data Science, AI, backend development, and automation**
+* Interested in practical systems, self-hosting, and real-world problem solving
+* Continuously improving Git, GitHub, and clean coding practices
+
+---
 
 ## Tech Stack
 
-Python · Java · C++ · C · Kotlin · SQL
-MongoDB · RoomDB · Retrofit · Git · GitHub · Linux · Android
+<div align="center">
 
-## GitHub
+**Languages**
 
-<p align="center">
-  <img src="./metrics.svg" width="65%" alt="GitHub Metrics">
-</p>
+Python • Java • C++ • C • Kotlin • SQL
+
+**Technologies**
+
+MongoDB • RoomDB • Retrofit • Android • Git • GitHub • Linux
+
+**Currently Exploring**
+
+Data Structures & Algorithms • Data Science • AI • Backend Development
+
+</div>
+
+---
+
+## GitHub Activity
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### Contributions
 
-<img src="./metrics.isocalendar.svg" width="100%" alt="Contribution Calendar">
+<img src="./metrics.isocalendar.svg" width="100%" alt="GitHub Contribution Calendar">
 
 </td>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 ### Languages
 
@@ -41,26 +64,114 @@ MongoDB · RoomDB · Retrofit · Git · GitHub · Linux · Android
 </tr>
 </table>
 
-## Coding Activity
+---
 
-<p align="center">
-  <img src="./metrics.habits.svg" width="70%" alt="Coding Habits">
-</p>
+## Coding Habits
+
+<div align="center">
+
+<img src="./metrics.habits.svg" width="75%" alt="Coding Habits">
+
+</div>
+
+---
+
+## Contribution Skyline
+
+<div align="center">
+
+<img src="./metrics.skyline.svg" width="85%" alt="GitHub Skyline">
+
+</div>
+
+---
 
 ## Featured Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### Vaari
 
-Crop information and water-footprint application built with **Kotlin, Java, Retrofit, RoomDB, and Python**.
+Crop information and water-footprint application developed using **Kotlin, Java, Retrofit, RoomDB, and Python**.
 
-[View Repository](https://github.com/pranav-jpeg/vaari)
+**Highlights**
+
+* Crop information search
+* Water-footprint data
+* Local search history
+* Android frontend
+* Python-powered data handling
+
+[View Project →](https://github.com/pranav-jpeg/vaari)
+
+</td>
+
+<td width="50%" valign="top">
 
 ### Game Shop
 
-Frontend web project built using **HTML and CSS**.
+Frontend web project created using **HTML and CSS** while learning interface design and web-development fundamentals.
 
-[View Repository](https://github.com/pranav-jpeg/game-shop)
+**Highlights**
 
-## Connect
+* Responsive page structure
+* HTML/CSS fundamentals
+* UI-focused development
+* Frontend practice
 
-[LinkedIn](https://www.linkedin.com/in/pranavbhagwat17/) · [GitHub](https://github.com/pranav-jpeg)
+[View Project →](https://github.com/pranav-jpeg/game-shop)
+
+</td>
+</tr>
+</table>
+
+---
+
+## What I'm Building
+
+Beyond my public repositories, I also experiment with:
+
+* Self-hosted game servers
+* Tailscale and Playit networking
+* Local music streaming
+* Local photo backup systems
+* Browser-based utilities
+* Python automation projects
+* Small tools created while learning DSA
+
+More of these projects will be documented and published over time.
+
+---
+
+## Current Focus
+
+```text
+Python                 ███████████████░░░░░
+Data Structures        ████████████░░░░░░░░
+Software Development   █████████████░░░░░░░
+Data Science / AI      █████████░░░░░░░░░░░
+```
+
+---
+
+## GitHub Overview
+
+<div align="center">
+
+<img src="./metrics.svg" width="65%" alt="GitHub Metrics">
+
+</div>
+
+---
+
+<div align="center">
+
+### Build. Learn. Improve.
+
+I'm always interested in interesting software projects, collaborations, and opportunities to learn.
+
+[LinkedIn](https://www.linkedin.com/in/pranavbhagwat17/) • [GitHub](https://github.com/pranav-jpeg)
+
+</div>
