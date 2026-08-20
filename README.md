@@ -1,38 +1,76 @@
-# Hi, I'm Pranav Bhagwat
+# Pranav Bhagwat
 
-B.Tech CSE student focused on building practical software projects and improving my problem-solving skills.
+**B.Tech CSE Student | Software Development | Python | Java | Data & AI**
 
-I'm currently learning Python and Data Structures & Algorithms while exploring software development, AI, and data science.
+I build practical projects to improve my programming and problem-solving skills.
+Currently focused on **Python, Data Structures & Algorithms, software development, and Data Science**.
 
-## What I'm working on
+## Currently Working On
 
-- Building projects to strengthen my Python and programming fundamentals
-- Learning Data Structures & Algorithms
-- Improving my GitHub and open-source workflow
-- Exploring AI and Data Science
-- Building projects that solve practical problems
+* Strengthening Python and DSA fundamentals
+* Building practical software projects
+* Improving code quality, Git, and GitHub workflows
+* Exploring Data Science and AI
+* Preparing for software engineering opportunities
 
 ## Tech Stack
 
 **Languages**
+Python · Java · C++ · C · Kotlin · SQL
 
-Python · Java · C++ · C · SQL · Kotlin
+**Technologies & Tools**
+MongoDB · RoomDB · Retrofit · Git · GitHub · Linux · Android
 
-**Technologies**
+## GitHub Overview
 
-MongoDB · Android · Git · GitHub · Linux
+<p align="center">
+  <img src="./metrics.svg" alt="GitHub Metrics" width="100%">
+</p>
 
-## GitHub
+## Contribution Activity
 
-![GitHub Metrics](./github-metrics.svg)
+<p align="center">
+  <img src="./metrics.isocalendar.svg" alt="Contribution Calendar" width="100%">
+</p>
+
+## Coding Activity
+
+<p align="center">
+  <img src="./metrics.habits.svg" alt="Coding Habits" width="100%">
+</p>
+
+## Languages
+
+<p align="center">
+  <img src="./metrics.languages.svg" alt="Most Used Languages" width="100%">
+</p>
 
 ## Featured Projects
 
 ### Vaari
-Crop water footprint data aggregation and search application built using Kotlin, Java, Retrofit, RoomDB and Python.
 
-### Game Servers
-Self-hosted game server infrastructure using tools such as Tailscale and Playit, with custom scripts for managing services.
+Crop information and water-footprint application built using **Kotlin, Java, Retrofit, RoomDB, and Python**.
+
+The application allows users to search for crop information while maintaining local search history.
+
+[View Repository](https://github.com/pranav-jpeg/vaari)
+
+### Game Shop
+
+Frontend web project built using **HTML and CSS**, focused on interface design and basic web-development fundamentals.
+
+[View Repository](https://github.com/pranav-jpeg/game-shop)
+
+## Beyond GitHub
+
+I also experiment with:
+
+* Self-hosted game servers
+* Tailscale and Playit networking
+* Local music and photo hosting
+* Small automation and utility projects
+
+More projects are being documented and added to GitHub.
 
 ## Connect
 
