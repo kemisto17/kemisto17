@@ -17,7 +17,7 @@ Building practical projects, improving problem-solving skills, and learning by c
 * Improving **Python and Data Structures & Algorithms**
 * Building practical software projects
 * Exploring **Data Science, AI, backend development, and automation**
-* Interested in self-hosting, networking, and useful developer tools
+* Interested in self-hosting, networking, and developer tools
 * Improving Git, GitHub, and clean coding practices
 
 ---
@@ -72,16 +72,6 @@ MongoDB • RoomDB • Retrofit • Android • Git • GitHub • Linux
 
 ---
 
-## Coding Activity
-
-<div align="center">
-
-<img src="./metrics.habits.svg" width="72%" alt="Coding Habits">
-
-</div>
-
----
-
 ## Featured Projects
 
 <table>
@@ -126,8 +116,6 @@ Frontend web project created using **HTML and CSS** while learning interface des
 
 ## Other Projects & Experiments
 
-I also work on smaller projects involving:
-
 * Self-hosted game servers
 * Tailscale and Playit networking
 * Local music streaming
@@ -136,7 +124,7 @@ I also work on smaller projects involving:
 * Python automation
 * DSA practice projects
 
-More of these projects will be documented and published over time.
+More projects will be documented and published over time.
 
 ---
 
