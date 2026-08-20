@@ -12,16 +12,6 @@ Building practical projects, improving problem-solving skills, and learning by c
 
 ---
 
-## GitHub Overview
-
-<div align="center">
-
-<img src="./metrics.svg" width="65%" alt="GitHub Metrics">
-
-</div>
-
----
-
 ## About Me
 
 * Improving **Python and Data Structures & Algorithms**
@@ -43,6 +33,16 @@ Python • Java • C++ • C • Kotlin • SQL
 **Technologies & Tools**
 
 MongoDB • RoomDB • Retrofit • Android • Git • GitHub • Linux
+
+</div>
+
+---
+
+## GitHub Overview
+
+<div align="center">
+
+<img src="./metrics.svg" width="65%" alt="GitHub Metrics">
 
 </div>
 
