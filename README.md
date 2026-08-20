@@ -12,13 +12,23 @@ Building practical projects, improving problem-solving skills, and learning by c
 
 ---
 
+## GitHub Overview
+
+<div align="center">
+
+<img src="./metrics.svg" width="65%" alt="GitHub Metrics">
+
+</div>
+
+---
+
 ## About Me
 
-* Currently improving **Python and Data Structures & Algorithms**
-* Building projects to strengthen software development fundamentals
+* Improving **Python and Data Structures & Algorithms**
+* Building practical software projects
 * Exploring **Data Science, AI, backend development, and automation**
-* Interested in practical systems, self-hosting, and real-world problem solving
-* Continuously improving Git, GitHub, and clean coding practices
+* Interested in self-hosting, networking, and useful developer tools
+* Improving Git, GitHub, and clean coding practices
 
 ---
 
@@ -30,13 +40,9 @@ Building practical projects, improving problem-solving skills, and learning by c
 
 Python • Java • C++ • C • Kotlin • SQL
 
-**Technologies**
+**Technologies & Tools**
 
 MongoDB • RoomDB • Retrofit • Android • Git • GitHub • Linux
-
-**Currently Exploring**
-
-Data Structures & Algorithms • Data Science • AI • Backend Development
 
 </div>
 
@@ -66,21 +72,11 @@ Data Structures & Algorithms • Data Science • AI • Backend Development
 
 ---
 
-## Coding Habits
+## Coding Activity
 
 <div align="center">
 
-<img src="./metrics.habits.svg" width="75%" alt="Coding Habits">
-
-</div>
-
----
-
-## Contribution Skyline
-
-<div align="center">
-
-<img src="./metrics.skyline.svg" width="85%" alt="GitHub Skyline">
+<img src="./metrics.habits.svg" width="72%" alt="Coding Habits">
 
 </div>
 
@@ -94,14 +90,14 @@ Data Structures & Algorithms • Data Science • AI • Backend Development
 
 ### Vaari
 
-Crop information and water-footprint application developed using **Kotlin, Java, Retrofit, RoomDB, and Python**.
+Crop information and water-footprint application built using **Kotlin, Java, Retrofit, RoomDB, and Python**.
 
 **Highlights**
 
 * Crop information search
 * Water-footprint data
 * Local search history
-* Android frontend
+* Android application
 * Python-powered data handling
 
 [View Project →](https://github.com/pranav-jpeg/vaari)
@@ -116,7 +112,6 @@ Frontend web project created using **HTML and CSS** while learning interface des
 
 **Highlights**
 
-* Responsive page structure
 * HTML/CSS fundamentals
 * UI-focused development
 * Frontend practice
@@ -129,48 +124,27 @@ Frontend web project created using **HTML and CSS** while learning interface des
 
 ---
 
-## What I'm Building
+## Other Projects & Experiments
 
-Beyond my public repositories, I also experiment with:
+I also work on smaller projects involving:
 
 * Self-hosted game servers
 * Tailscale and Playit networking
 * Local music streaming
-* Local photo backup systems
+* Local photo backup
 * Browser-based utilities
-* Python automation projects
-* Small tools created while learning DSA
+* Python automation
+* DSA practice projects
 
 More of these projects will be documented and published over time.
 
 ---
 
-## Current Focus
-
-```text
-Python                 ███████████████░░░░░
-Data Structures        ████████████░░░░░░░░
-Software Development   █████████████░░░░░░░
-Data Science / AI      █████████░░░░░░░░░░░
-```
-
----
-
-## GitHub Overview
-
 <div align="center">
 
-<img src="./metrics.svg" width="65%" alt="GitHub Metrics">
+### Build • Learn • Improve
 
-</div>
-
----
-
-<div align="center">
-
-### Build. Learn. Improve.
-
-I'm always interested in interesting software projects, collaborations, and opportunities to learn.
+Interested in software development, practical projects, and opportunities to collaborate.
 
 [LinkedIn](https://www.linkedin.com/in/pranavbhagwat17/) • [GitHub](https://github.com/pranav-jpeg)
 
