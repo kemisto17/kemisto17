@@ -1,0 +1,26 @@
+name: GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Generate GitHub Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          user: pranav-jpeg
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          template: classic
+          config_timezone: Asia/Kolkata
+
+          base: header, activity, community, repositories, metadata
+          config_display: large
