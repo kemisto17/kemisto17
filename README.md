@@ -1,76 +1,65 @@
 # Pranav Bhagwat
 
-**B.Tech CSE Student | Software Development | Python | Java | Data & AI**
+**B.Tech CSE Student | Python | Java | Software Development | Data & AI**
 
-I build practical projects to improve my programming and problem-solving skills.
-Currently focused on **Python, Data Structures & Algorithms, software development, and Data Science**.
+Building practical projects while improving my programming, DSA, and software development skills.
 
-## Currently Working On
+## About
 
-* Strengthening Python and DSA fundamentals
+* Learning Python and Data Structures & Algorithms
 * Building practical software projects
-* Improving code quality, Git, and GitHub workflows
 * Exploring Data Science and AI
-* Preparing for software engineering opportunities
+* Improving Git, GitHub, and clean coding practices
 
 ## Tech Stack
 
-**Languages**
 Python · Java · C++ · C · Kotlin · SQL
-
-**Technologies & Tools**
 MongoDB · RoomDB · Retrofit · Git · GitHub · Linux · Android
 
-## GitHub Overview
+## GitHub
 
 <p align="center">
-  <img src="./metrics.svg" alt="GitHub Metrics" width="100%">
+  <img src="./metrics.svg" width="65%" alt="GitHub Metrics">
 </p>
 
-## Contribution Activity
+<table>
+<tr>
+<td width="50%">
 
-<p align="center">
-  <img src="./metrics.isocalendar.svg" alt="Contribution Calendar" width="100%">
-</p>
+### Contributions
+
+<img src="./metrics.isocalendar.svg" width="100%" alt="Contribution Calendar">
+
+</td>
+<td width="50%">
+
+### Languages
+
+<img src="./metrics.languages.svg" width="100%" alt="Most Used Languages">
+
+</td>
+</tr>
+</table>
 
 ## Coding Activity
 
 <p align="center">
-  <img src="./metrics.habits.svg" alt="Coding Habits" width="100%">
-</p>
-
-## Languages
-
-<p align="center">
-  <img src="./metrics.languages.svg" alt="Most Used Languages" width="100%">
+  <img src="./metrics.habits.svg" width="70%" alt="Coding Habits">
 </p>
 
 ## Featured Projects
 
 ### Vaari
 
-Crop information and water-footprint application built using **Kotlin, Java, Retrofit, RoomDB, and Python**.
-
-The application allows users to search for crop information while maintaining local search history.
+Crop information and water-footprint application built with **Kotlin, Java, Retrofit, RoomDB, and Python**.
 
 [View Repository](https://github.com/pranav-jpeg/vaari)
 
 ### Game Shop
 
-Frontend web project built using **HTML and CSS**, focused on interface design and basic web-development fundamentals.
+Frontend web project built using **HTML and CSS**.
 
 [View Repository](https://github.com/pranav-jpeg/game-shop)
-
-## Beyond GitHub
-
-I also experiment with:
-
-* Self-hosted game servers
-* Tailscale and Playit networking
-* Local music and photo hosting
-* Small automation and utility projects
-
-More projects are being documented and added to GitHub.
 
 ## Connect
 
