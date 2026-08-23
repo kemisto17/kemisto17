@@ -19,7 +19,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.svg
-          user: pranav-jpeg
+          user: kemisto17
           token: ${{ secrets.METRICS_TOKEN }}
 
           template: classic
@@ -33,7 +33,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.isocalendar.svg
-          user: pranav-jpeg
+          user: kemisto17
           token: ${{ secrets.METRICS_TOKEN }}
 
           template: classic
@@ -48,7 +48,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.habits.svg
-          user: pranav-jpeg
+          user: kemisto17
           token: ${{ secrets.METRICS_TOKEN }}
 
           template: classic
@@ -66,7 +66,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.languages.svg
-          user: pranav-jpeg
+          user: kemisto17
           token: ${{ secrets.METRICS_TOKEN }}
 
           template: classic
@@ -82,7 +82,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.skyline.svg
-          user: pranav-jpeg
+          user: kemisto17
           token: ${{ secrets.METRICS_TOKEN }}
 
           template: classic
