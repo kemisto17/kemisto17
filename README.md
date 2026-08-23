@@ -6,7 +6,7 @@
 
 Building practical projects, improving problem-solving skills, and learning by creating.
 
-[LinkedIn](https://www.linkedin.com/in/pranavbhagwat17/) • [GitHub](https://github.com/pranav-jpeg)
+[LinkedIn](https://www.linkedin.com/in/pranavbhagwat17/) • [GitHub](https://github.com/kemisto17)
 
 </div>
 
@@ -90,7 +90,7 @@ Crop information and water-footprint application built using **Kotlin, Java, Ret
 * Android application
 * Python-powered data handling
 
-[View Project →](https://github.com/pranav-jpeg/vaari)
+[View Project →](https://github.com/kemisto17/vaari)
 
 </td>
 
@@ -106,7 +106,7 @@ Frontend web project created using **HTML and CSS** while learning interface des
 * UI-focused development
 * Frontend practice
 
-[View Project →](https://github.com/pranav-jpeg/game-shop)
+[View Project →](https://github.com/kemisto17/game-shop)
 
 </td>
 </tr>
@@ -134,6 +134,6 @@ More projects will be documented and published over time.
 
 Interested in software development, practical projects, and opportunities to collaborate.
 
-[LinkedIn](https://www.linkedin.com/in/pranavbhagwat17/) • [GitHub](https://github.com/pranav-jpeg)
+[LinkedIn](https://www.linkedin.com/in/pranavbhagwat17/) • [GitHub](https://github.com/kemisto17)
 
 </div>
